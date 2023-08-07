@@ -1,0 +1,8 @@
+
+public class TaxPayer {
+	TaxPayerStrategy taxPayerStrategy;
+	
+	TaxPayer(TaxPayerStrategy taxPayerStrategy){
+		this.taxPayerStrategy = taxPayerStrategy;
+	}
+}

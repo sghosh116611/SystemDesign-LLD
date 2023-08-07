@@ -1,0 +1,11 @@
+> Strategy Design Pattern is a behavioral design pattern
+
+Use Case :-
+
+> We define certain functions/algorithms and provide it to the client.
+> Now, we want to allow the client applications to decide which service they want to use.
+> Example :- 
+1) A merchant can pay via cash or cheque. 
+2) We want to allow the various merchants to decide their payment method
+3) We create the various payment algorithms
+4) We pass this service to the merchant for it to use.
