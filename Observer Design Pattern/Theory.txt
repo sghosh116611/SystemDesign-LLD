@@ -1,0 +1,9 @@
+> Observer Design Pattern is a behavioral design pattern
+
+Use Case :-
+
+> There are two entities Observer and Observables (Subject)
+> Now, we want to update the observers when the state of the subject changes
+> Example :- 
+1) Notify Me feature in AMazon website
+2) Weather Station Temperature Changes
